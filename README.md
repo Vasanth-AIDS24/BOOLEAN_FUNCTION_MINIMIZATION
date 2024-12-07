@@ -91,9 +91,12 @@ FUNCTION2
 ![image](https://github.com/user-attachments/assets/245d9e18-349e-4d8f-be92-a307325d90be)
 
 
+```
+
 Developed by:VASANTH P
 RegisterNumber:24900136
 
+```
 
 **RTL realization**
 
